@@ -1,6 +1,4 @@
-<a href="https://app.daily.dev/nicoloop">
-  <img src="https://api.daily.dev/devcards/v2/lpzQ2aqiAVUciphetLLSS.png?type=wide&r=iap" width="652" alt="Nico Loop's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/nicoloop"><img src="https://api.daily.dev/devcards/v2/lpzQ2aqiAVUciphetLLSS.png?type=wide&r=mdw" width="652" alt="Nico Loop's Dev Card"/></a>
 
 # Hi there 👋
 
