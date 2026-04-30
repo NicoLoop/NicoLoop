@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/nicoloop">
-  <img src="https://api.daily.dev/devcards/v2/lpzQ2aqiAVUciphetLLSS.png?type=wide&r=iap" width="100%" alt="Nico Loop's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/lpzQ2aqiAVUciphetLLSS.png?type=wide&r=x3l" width="100%" alt="Nico Loop's Dev Card"/>
 </a>
 
 <h1 align="center">Hey 👋 I'm NicoLoop</h1>
