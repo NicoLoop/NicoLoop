@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/NicoLoop">
+    <img src="https://komarev.com/ghpvc/?username=NicoLoop&label=Profile+Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
