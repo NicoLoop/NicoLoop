@@ -51,8 +51,8 @@
 ## 🧩 Featured Project
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/CreepyHost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=CreepyHost&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NicoLoop/CreepyHost">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoLoop&repo=CreepyHost&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -81,9 +81,9 @@
 
 <p align="center">
 <a href="https://nicoloop.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+<a href="https://github.com/#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
 </p>
 
 ---
